@@ -264,7 +264,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
+a.out.dSYM/
 # IPython
 profile_default/
 ipython_config.py
